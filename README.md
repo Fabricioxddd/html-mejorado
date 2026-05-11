@@ -1,4 +1,4 @@
-# Pagina web - Pruebas 3
+# Pagina web - desercion estudiantil
 
 Este proyecto es una aplicación web en desarrollo para evitar la desercion de los estudiantes universitarios
 
