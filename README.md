@@ -4,7 +4,7 @@ Este proyecto es una aplicación web en desarrollo para evitar la desercion de l
 
 ## Como ejecutarlo 
 * **Usa Vs CODE y descargas la extensión live server.
-* **Una vez instalada le das click derecho y te aparecera una opcion que dice "open whit live server".
+* **Una vez instalada le das click derecho al codigo y te aparecera una opcion que dice "open whit live server".
 * **Una vez presiones eso te dirigira a tu navegador.
 * **Si lo ejecutas por github, abre la terminal y pones python3 -m http.server 8080
 * **ingresa en modo invitado por el momento hasta que la pagina se publique oficialmente.
