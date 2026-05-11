@@ -20,3 +20,6 @@ Este proyecto es una aplicación web en desarrollo para evitar la desercion de l
 ## 📂 Estructura del proyecto
 * `index.html`: Pantalla principal de acceso.
 * `dashboard.html`: Panel de control tras el login.
+## Creadores:
+* Fabricio Pianchachi
+* Harith Bardales
