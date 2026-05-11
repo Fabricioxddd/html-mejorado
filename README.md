@@ -23,3 +23,5 @@ Este proyecto es una aplicación web en desarrollo para evitar la desercion de l
 ## Creadores:
 * Fabricio Pianchachi
 * Harith Bardales
+* Ruth Soyori
+* Teo Ramón
